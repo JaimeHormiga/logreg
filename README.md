@@ -1,5 +1,7 @@
 Logreg ver 1.1403
+
 Autor: Jaime Hormiga
+
 www.jaimeweb.es
 
 
@@ -23,7 +25,7 @@ Ej: ejemplopoo.php
 
 
 NOTAS:
-======
+------
 
 'Logreg' es un ejercicio de programación que suelo pedir a mis alumnos en los diferentes cursos de desarrollo/programación web.
 El código presentado en los archivos tiene como objetivo el entendimiento de diferentes rutinas y no prioriza la optimización.
